@@ -2,7 +2,7 @@
 ## Setup
 
 1. **Prepare the Dataset**
-   - Place the datasets (in pickle and CSV formats) inside the `data/` folder.
+   - Place the datasets (in pickle and CSV formats) from drive inside a `data/` folder in the directory where the repo is downloaded.
 
 2. **Create the Environment**
    - Use the provided `environment.yml` file to create a new conda environment:
