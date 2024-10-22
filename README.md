@@ -11,9 +11,6 @@
      conda activate SER
      ```
 
-## Project Structure
-
-
 ## Instructions
 
 ### 1. TransferSER
