@@ -57,6 +57,7 @@
 3. **Train the Model**
    - Run the training script:
      ```bash
-     python train.py --model_dir <save_path>
+     python <train.py/train_reptile/train_RegMAML> --model_dir <save_path>
      ```
    - Replace `<save_path>` with the desired directory for saving the model (e.g., `./`).
+   - Replace train.py with train_reptile or train_RegMAML for using modified code.
